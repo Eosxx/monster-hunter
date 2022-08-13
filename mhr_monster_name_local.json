@@ -1,0 +1,404 @@
+[
+    {
+        "match": "アオアシラ",
+        "value": "青熊兽",
+        "icon": "assets/s14.jpg",
+        "sort": "q"
+    },
+    {
+        "match": "ヌシ・アオアシラ",
+        "value": "首领-青熊兽",
+        "icon": "assets/s50.jpg",
+        "sort": "q"
+    },
+    {
+        "match": "アケノシルム",
+        "value": "伞鸟",
+        "icon": "assets/s24.jpg",
+        "sort": "s"
+    },
+    {
+        "match": "アンジャナフ",
+        "value": "蛮噩龙",
+        "icon": "assets/s37.jpg",
+        "sort": "m"
+    },
+    {
+        "match": "イソネミクニ",
+        "value": "人鱼龙",
+        "icon": "assets/s20.jpg",
+        "sort": "r"
+    },
+    {
+        "match": "イソネミクニ亜種",
+        "value": "冰人鱼龙",
+        "icon": "assets/s107.jpg",
+        "sort": "r"
+    },
+    {
+        "match": "イブシマキヒコ",
+        "value": "风神龙",
+        "icon": "assets/s36.jpg",
+        "sort": "f"
+    },
+    {
+        "match": "ウルクスス",
+        "value": "白兔兽",
+        "icon": "assets/s28.jpg",
+        "sort": "b"
+    },
+    {
+        "match": "エスピナス",
+        "value": "棘龙",
+        "icon": "assets/s110.jpg",
+        "sort": "j"
+    },
+    {
+        "match": "オオナズチ",
+        "value": "霞龙",
+        "icon": "assets/s35.jpg",
+        "sort": "x"
+    },
+    {
+        "match": "オサイズチ",
+        "value": "镰鼬龙",
+        "icon": "assets/s16.jpg",
+        "sort": "l"
+    },
+    {
+        "match": "オロミドロ",
+        "value": "泥翁龙",
+        "icon": "assets/s29.jpg",
+        "sort": "n"
+    },
+    {
+        "match": "オロミドロ亜種",
+        "value": "熔翁龙",
+        "icon": "assets/s108.jpg",
+        "sort": "n"
+    },
+    {
+        "match": "ガイアデルム",
+        "value": "冥渊龙",
+        "icon": "assets/s124.jpg",
+        "sort": "m"
+    },
+    {
+        "match": "ガランゴルム",
+        "value": "刚缠兽",
+        "icon": "assets/s102.jpg",
+        "sort": "g"
+    },
+    {
+        "match": "奇しき赫耀のバルファルク",
+        "value": "天彗龙",
+        "icon": "assets/s72.jpg",
+        "sort": "t"
+    },
+    {
+        "match": "クシャルダオラ",
+        "value": "钢龙",
+        "icon": "assets/s68.jpg",
+        "sort": "g"
+    },
+    {
+        "match": "クルルヤック",
+        "value": "搔鸟",
+        "icon": "assets/s38.jpg",
+        "sort": "s"
+    },
+    {
+        "match": "ゴア・マガラ",
+        "value": "黑蚀龙",
+        "icon": "assets/s111.jpg",
+        "sort": "h"
+    },
+    {
+        "match": "ゴシャハギ",
+        "value": "雪鬼兽",
+        "icon": "assets/s19.jpg",
+        "sort": "x"
+    },
+    {
+        "match": "ジュラトドス",
+        "value": "泥鱼龙",
+        "icon": "assets/s39.jpg",
+        "sort": "n"
+    },
+    {
+        "match": "シャガルマガラ",
+        "value": "天廻龙",
+        "icon": "assets/s122.jpg",
+        "sort": "t"
+    },
+    {
+        "match": "ショウグンギザミ",
+        "value": "将军蟹/镰蟹",
+        "icon": "assets/s106.jpg",
+        "sort": "j"
+    },
+    {
+        "match": "ジンオウガ",
+        "value": "雷狼龙",
+        "icon": "assets/s40.jpg",
+        "sort": "l"
+    },
+    {
+        "match": "ヌシ・ジンオウガ",
+        "value": "首领-雷狼龙",
+        "icon": "assets/s73.jpg",
+        "sort": "l"
+    },
+    {
+        "match": "セルレギオス",
+        "value": "干刃龙",
+        "icon": "assets/s109.jpg",
+        "sort": "q"
+    },
+    {
+        "match": "ダイミョウザザミ",
+        "value": "盾蟹/大名蟹",
+        "icon": "assets/s112.jpg",
+        "sort": "d"
+    },
+    {
+        "match": "タマミツネ",
+        "value": "泡狐龙",
+        "icon": "assets/s15.jpg",
+        "sort": "p"
+    },
+    {
+        "match": "ヌシ・タマミツネ",
+        "value": "首领-泡狐龙",
+        "icon": "assets/s52.jpg",
+        "sort": "p"
+    },
+    {
+        "match": "ディアブロス",
+        "value": "角龙",
+        "icon": "assets/s33.jpg",
+        "sort": "j"
+    },
+    {
+        "match": "ヌシ・ディアブロス",
+        "value": "首领-角龙",
+        "icon": "assets/s67.jpg",
+        "sort": "j"
+    },
+    {
+        "match": "ティガレックス",
+        "value": "轰龙",
+        "icon": "assets/s21.jpg",
+        "sort": "h"
+    },
+    {
+        "match": "テオ・テスカトル",
+        "value": "炎王龙",
+        "icon": "assets/s69.jpg",
+        "sort": "y"
+    },
+    {
+        "match": "ドスバギィ",
+        "value": "眠狗龙",
+        "icon": "assets/s41.jpg",
+        "sort": "m"
+    },
+    {
+        "match": "ドスフロギィ",
+        "value": "毒狗龙",
+        "icon": "assets/s42.jpg",
+        "sort": "d"
+    },
+    {
+        "match": "トビカガチ",
+        "value": "飞雷龙",
+        "icon": "assets/s43.jpg",
+        "sort": "f"
+    },
+    {
+        "match": "ナルガクルガ",
+        "value": "迅龙",
+        "icon": "assets/s44.jpg",
+        "sort": "x"
+    },
+    {
+        "match": "ナルガクルガ希少種",
+        "value": "月迅龙",
+        "icon": "assets/s114.jpg",
+        "sort": "x"
+    },
+    {
+        "match": "ナルハタタヒメ",
+        "value": "雷神龙",
+        "icon": "assets/s45.jpg",
+        "sort": "l"
+    },
+    {
+        "match": "百竜ノ淵源ナルハタタヒメ",
+        "value": "百龙渊源-雷神龙",
+        "icon": "assets/s71.jpg",
+        "sort": "l"
+    },
+    {
+        "match": "バサルモス",
+        "value": "岩龙",
+        "icon": "assets/s32.jpg",
+        "sort": "y"
+    },
+    {
+        "match": "バゼルギウス",
+        "value": "爆鳞龙",
+        "icon": "assets/s70.jpg",
+        "sort": "b"
+    },
+    {
+        "match": "紅蓮滾るバゼルギウス",
+        "value": "紅蓮爆鳞龙",
+        "icon": "assets/s127.jpg",
+        "sort": "b"
+    },
+    {
+        "match": "ビシュテンゴ",
+        "value": "天狗兽",
+        "icon": "assets/s26.jpg",
+        "sort": "t"
+    },
+    {
+        "match": "ビシュテンゴ亜種",
+        "value": "绯天狗兽",
+        "icon": "assets/s105.jpg",
+        "sort": "t"
+    },
+    {
+        "match": "プケプケ",
+        "value": "毒妖鸟",
+        "icon": "assets/s46.jpg",
+        "sort": "d"
+    },
+    {
+        "match": "フルフル",
+        "value": "奇怪龙",
+        "icon": "assets/s23.jpg",
+        "sort": "q"
+    },
+    {
+        "match": "ベリオロス",
+        "value": "冰牙龙",
+        "icon": "assets/s31.jpg",
+        "sort": "b"
+    },
+    {
+        "match": "ボルボロス",
+        "value": "土砂龙",
+        "icon": "assets/s47.jpg",
+        "sort": "t"
+    },
+    {
+        "match": "マガイマガド",
+        "value": "怨虎龙",
+        "icon": "assets/s18.jpg",
+        "sort": "y"
+    },
+    {
+        "match": "怨嗟響めくマガイマガド",
+        "value": "怨嗟怨虎龙",
+        "icon": "assets/s121.jpg",
+        "sort": "y"
+    },
+    {
+        "match": "メル・ゼナ",
+        "value": "爵银龙",
+        "icon": "assets/s101.jpg",
+        "sort": "j"
+    },
+    {
+        "match": "ヤツカダキ",
+        "value": "妃蜘蛛",
+        "icon": "assets/s30.jpg",
+        "sort": "f"
+    },
+    {
+        "match": "ヤツカダキ亜種",
+        "value": "炽妃蜘蛛",
+        "icon": "assets/s113.jpg",
+        "sort": "f"
+    },
+    {
+        "match": "ヨツミワドウ",
+        "value": "河童蛙",
+        "icon": "assets/s25.jpg",
+        "sort": "h"
+    },
+    {
+        "match": "ラングロトラ",
+        "value": "赤甲兽",
+        "icon": "assets/s48.jpg",
+        "sort": "c"
+    },
+    {
+        "match": "ラージャン",
+        "value": "金狮子",
+        "icon": "assets/s34.jpg",
+        "sort": "j"
+    },
+    {
+        "match": "激昂したラージャン",
+        "value": "激昂金狮子",
+        "icon": "assets/s123.jpg",
+        "sort": "j"
+    },
+    {
+        "match": "ライゼクス",
+        "value": "电龙",
+        "icon": "assets/s104.jpg",
+        "sort": "d"
+    },
+    {
+        "match": "リオレイア",
+        "value": "雌火龙",
+        "icon": "assets/s17.jpg",
+        "sort": "c"
+    },
+    {
+        "match": "ヌシ・リオレイア",
+        "value": "首领-雌火龙",
+        "icon": "assets/s51.jpg",
+        "sort": "c"
+    },
+    {
+        "match": "リオレイア希少種",
+        "value": "金火龙",
+        "icon": "assets/s129.jpg",
+        "sort": "c"
+    },
+    {
+        "match": "リオレウス",
+        "value": "火龙",
+        "icon": "assets/s22.jpg",
+        "sort": "h"
+    },
+    {
+        "match": "ヌシ・リオレウス",
+        "value": "首领-火龙",
+        "icon": "assets/s66.jpg",
+        "sort": "h"
+    },
+    {
+        "match": "リオレウス希少種",
+        "value": "银火龙",
+        "icon": "assets/s128.jpg",
+        "sort": "h"
+    },
+    {
+        "match": "ルナガロン",
+        "value": "冰狼龙",
+        "icon": "assets/s103.jpg",
+        "sort": "b"
+    },
+    {
+        "match": "ロアルドロス",
+        "value": "水兽",
+        "icon": "assets/s49.jpg",
+        "sort": "s"
+    }
+]
